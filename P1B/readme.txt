@@ -1,0 +1,1 @@
+In the violate.sql file, I used "--" to ignore the ajustment for testing CHECK constraints, so that it won't excute.
